@@ -30,7 +30,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+<img align="right" width="88" src="F:\Users\liu'hao\Desktop\neverwinHao\assets\1.jpg" />
 
 <p>&emsp;&emsp;嗨，你好，我是neverwinHao。</p>
 <p>&emsp;&emsp;热爱摄影、美食、旅行。</p>
