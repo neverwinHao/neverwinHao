@@ -40,74 +40,6 @@
 
 
 
-### 📊 WakaTime
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-
-</td></tr>
-
-<tr><td>
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                477 commits         ███████░░░░░░░░░░░░░░░░░░   27.75 % 
-🌆 Daytime                538 commits         ████████░░░░░░░░░░░░░░░░░   31.30 % 
-🌃 Evening                414 commits         ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
-🌙 Night                  290 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Tuesday                  126 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-Wednesday                251 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Thursday                 228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Friday                   553 commits         ████████░░░░░░░░░░░░░░░░░   32.17 % 
-Saturday                 144 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-Sunday                   252 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 24 hrs 59 mins      ███████████████░░░░░░░░░░   60.17 % 
-Vue.js                   14 hrs 45 mins      █████████░░░░░░░░░░░░░░░░   35.55 % 
-JavaScript               56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-JSON                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-CSS                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-
-🔥 Editors: 
-Obsidian                 24 hrs 45 mins      ███████████████░░░░░░░░░░   59.61 % 
-VS Code                  16 hrs 46 mins      ██████████░░░░░░░░░░░░░░░   40.39 % 
-
-💻 Operating System: 
-Mac                      41 hrs 31 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 16/02/2024 01:14:16 UTC
-<!--END_SECTION:waka-->
-
-</td></tr>
-
-</table>
-
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
@@ -126,15 +58,6 @@ Mac                      41 hrs 31 mins      ███████████�
     <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
   </picture>
 </div>
-
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=default&hide_border=true" />
-</picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 
 
 <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />&emsp;
@@ -170,7 +93,6 @@ Mac                      41 hrs 31 mins      ███████████�
 <div align="center" >
 <!--  skill badge 技能徽章 -->
 💪 正在学习
-
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
@@ -233,14 +155,7 @@ Mac                      41 hrs 31 mins      ███████████�
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 
-<!-- profile-3d-contrib 3D贡献图-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
 
-</div>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
@@ -252,12 +167,6 @@ Mac                      41 hrs 31 mins      ███████████�
 <img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
 
 
-
-
-
-
-
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
