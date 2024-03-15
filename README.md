@@ -53,5 +53,4 @@
 </div>
 
 <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />&emsp;
-<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
 
