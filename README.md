@@ -33,7 +33,7 @@
 <img align="right" width="88" src="F:\Users\liu'hao\Desktop\neverwinHao\assets\1.jpg" />
 
 <p>&emsp;&emsp;嗨，你好，我是刘浩。</p>
-<p>&emsp;&emsp;热爱摄影、美食、旅行。</p>
+<!-- <p>&emsp;&emsp;热爱摄影、美食、旅行。</p> -->
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 
